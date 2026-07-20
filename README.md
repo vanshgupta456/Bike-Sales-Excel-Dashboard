@@ -30,6 +30,8 @@ This project is an interactive Excel dashboard created to analyze bike sales dat
 
 ## 📸 Dashboard Preview
 ![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboards.png)
+![Dashboard](screenshots/dashboardss.gif)
 
 ## 👨‍💻 Author
 Vansh Gupta
